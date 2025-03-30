@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_image">News Image</string>
+    <string name="read_full_article">Read Full Article</string>
+    <string name="general">General</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+</resources>
+
+
+
+
+
+
